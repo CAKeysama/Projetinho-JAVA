@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-aop-5.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/tomcat-embed-jasper-9.0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-boot-starter-logging-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jackson-datatype-jsr310-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/ecj-3.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/tomcat-embed-el-9.0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jackson-databind-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-boot-autoconfigure-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-beans-5.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jackson-module-parameter-names-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-boot-starter-tomcat-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/log4j-api-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jul-to-slf4j-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-boot-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-boot-starter-web-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-boot-starter-json-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/tomcat-embed-core-9.0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jackson-core-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jakarta.annotation-api-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jackson-datatype-jdk8-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-jcl-5.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/log4j-to-slf4j-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-core-5.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/tomcat-annotations-api-9.0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/snakeyaml-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/tomcat-embed-websocket-9.0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jakarta.el-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-expression-5.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-context-5.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-boot-starter-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-webmvc-5.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/jackson-annotations-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProjetinhoJava/projetinho/Java---prj_class/DS2-Spring-Base/lib/spring-web-5.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
